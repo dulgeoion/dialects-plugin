@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       dialects
  * Plugin URI:        https://github.com/dulgeoion/dialects-plugin
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Plugin for visualization dialect words and expressions on the map with an adding, deleting and updating new words and expressions opportunity. 
  * Version:           1.0.0
  * Author:            George Dulishkovich
  * Author URI:        https://github.com/dulgeoion
